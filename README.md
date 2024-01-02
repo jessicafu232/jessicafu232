@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 I'm passionate about machine learning, UX/UI design, and hardware-software integration. I enjoy tackling challenges and collaborating on innovative projects.
 
-💼 I'm currently studying at Columbia University, working towards a degree in Computer Engineering.
+📖 I'm currently studying at Columbia University, working towards a degree in Computer Engineering.
 
 🔧 Some languages I have experience in:
 * Java
