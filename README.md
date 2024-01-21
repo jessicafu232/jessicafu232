@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * Java
 * Python
 * C
-* C#/C++
+* C#
 * HTML/CSS
 * Javascript
 * ...and more!
