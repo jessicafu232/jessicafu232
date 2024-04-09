@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 🚀 I'm passionate about machine learning, UX/UI design, and hardware-software integration. I enjoy tackling challenges and collaborating on innovative projects.
 
-📖 I'm currently studying at Columbia University, working towards a degree in Computer Engineering.
+📖 I'm currently studying at Columbia University, working towards a degree in Computer Science.
 
 🔧 Some languages I have experience in:
-* Java
+* Java/Javascript
 * Python
-* C
-* C++, C#
+* C/C++
 * HTML/CSS
-* Javascript
 * ...and more!
 
 📫 Let's connect! Find me on [LinkedIn profile](https://www.linkedin.com/in/jessica-t-fu/) or drop me an email at jessicafu232@gmail.com!
