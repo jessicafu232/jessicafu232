@@ -22,7 +22,6 @@ Some languages I have experience in:
 * Java/Javascript
 * Python
 * C/C++
-* HTML/CSS
 * ...and more!
 
 ⭐ Let's connect! Find me on [LinkedIn profile](https://www.linkedin.com/in/jessica-t-fu/) or drop me an email at jessicafu232@gmail.com!
