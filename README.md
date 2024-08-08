@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ⭐ Hello, I'm Jessica!
 
-I'm an undergraduate at Columbia University working through industry and academic positions. I'm interested in backend development, application development, and scientific computing. From developing frontend modules within General Atomics' fusion energy framework, OMFIT, to developing backend solutions within startups like Oro Labs and established companies like Chemstations, I really enjoy exploring all kinds of fields and industries! At the moment I work primarily in Python and Java, with a background in C/C++. I'd also like to learn Fortran within the year to better understand the underlying code within the computational plasma physics field I currently am interested in. 
+I'm an undergraduate at Columbia University working through industry and academic positions. I'm interested in backend development, application development, and artificial intelligence. From developing frontend modules within General Atomics' fusion energy framework, OMFIT, to developing backend solutions within startups like Oro Labs and established companies like Chemstations, I really enjoy exploring all kinds of fields and industries! At the moment I work primarily in Python and Java, with a background in C/C++. 
 
 ⭐ Let's connect! Find me on [LinkedIn profile](https://www.linkedin.com/in/jessica-t-fu/) or drop me an email at jessicafu232@gmail.com!
