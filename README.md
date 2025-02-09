@@ -18,4 +18,4 @@ I'm an undergraduate at Columbia University working through industry and academi
 
 ⭐ Let's connect! Find me on [LinkedIn profile](https://www.linkedin.com/in/jessica-t-fu/) or drop me an email at jessicafu232@gmail.com!
 -->
-Find me [LinkedIn](https://www.linkedin.com/in/jessica-t-fu/) :)
+Find me on [LinkedIn](https://www.linkedin.com/in/jessica-t-fu/) :)
